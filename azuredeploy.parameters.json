@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": "wagsadmin"
+        },
+        "chefDNSName": {
+            "value": "chef-manage.walgreens.com"
+        },
+        "sshKeyData": {
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClUWI0Y97jmZLApV4gUXIeRv+t9Lda4vd98D9qhXAwpF605wwKSd8ZA4IuoSrYORGXoTIALOJ3yu4aW4SvX2gQfIRDHDFtg8P2NPenE3bzaOJOb6XeDJyJFynRDx01rwBedcHqcQvx2QdTz1uyOPF0u1P1EsJKfsnBIhJLAlC6kEm1eF1X0KYrUu8q7qhVp8Y/ve7fw4f/0ChohMsEV+bWabNLmzfRlfHMwblMweFP/+Fv+hCHqigmsB3x7iDrRnSIBBUd9VHOA6dkBhtGBpcBCS79XPW+Qfym4+9/OWldCkcWBWQdaAT56Zd1F4aEUube0rmV+WG5zCQV90PsbhUB IT-LLS-CLDLOAN4+Rumman@IT-LLS-CLDLOAN4"
+        }
+    }
+}
